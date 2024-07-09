@@ -122,42 +122,42 @@ export default function Home() {
                 Regions in Kenya
               </div>
               <div className="grid grid-cols-1 gap-4 px-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-                <Link href="/central" legacyBehavior>
+                <Link href="/https://code.earthengine.google.com/57a10f84e5d4b10db8569dc5514071ff?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects&hideCode=true" legacyBehavior>
                   <a className="flex h-48 flex-col items-center justify-center rounded-lg bg-gray-200 p-4 text-xl font-semibold text-black no-underline hover:bg-gray-300">
                     Central
                   </a>
                 </Link>
-                <Link href="/coast" legacyBehavior>
+                <Link href="/https://code.earthengine.google.com/57a10f84e5d4b10db8569dc5514071ff?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects&hideCode=true" legacyBehavior>
                   <a className="flex h-48 flex-col items-center justify-center rounded-lg bg-gray-200 p-4 text-xl font-semibold text-black no-underline hover:bg-gray-300">
                     Coast
                   </a>
                 </Link>
-                <Link href="/eastern" legacyBehavior>
+                <Link href="/https://code.earthengine.google.com/57a10f84e5d4b10db8569dc5514071ff?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects&hideCode=true" legacyBehavior>
                   <a className="flex h-48 flex-col items-center justify-center rounded-lg bg-gray-200 p-4 text-xl font-semibold text-black no-underline hover:bg-gray-300">
                     Eastern
                   </a>
                 </Link>
-                <Link href="/nairobi" legacyBehavior>
+                <Link href="/https://code.earthengine.google.com/57a10f84e5d4b10db8569dc5514071ff?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects&hideCode=true" legacyBehavior>
                   <a className="flex h-48 flex-col items-center justify-center rounded-lg bg-gray-200 p-4 text-xl font-semibold text-black no-underline hover:bg-gray-300">
                     Nairobi
                   </a>
                 </Link>
-                <Link href="/north-eastern" legacyBehavior>
+                <Link href="/https://code.earthengine.google.com/57a10f84e5d4b10db8569dc5514071ff?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects&hideCode=true-eastern" legacyBehavior>
                   <a className="flex h-48 flex-col items-center justify-center rounded-lg bg-gray-200 p-4 text-xl font-semibold text-black no-underline hover:bg-gray-300">
                     North Eastern
                   </a>
                 </Link>
-                <Link href="/nyanza" legacyBehavior>
+                <Link href="/https://code.earthengine.google.com/57a10f84e5d4b10db8569dc5514071ff?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects&hideCode=true" legacyBehavior>
                   <a className="flex h-48 flex-col items-center justify-center rounded-lg bg-gray-200 p-4 text-xl font-semibold text-black no-underline hover:bg-gray-300">
                     Nyanza
                   </a>
                 </Link>
-                <Link href="/rift-valley" legacyBehavior>
+                <Link href="/rift-https://code.earthengine.google.com/57a10f84e5d4b10db8569dc5514071ff?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects&hideCode=true" legacyBehavior>
                   <a className="flex h-48 flex-col items-center justify-center rounded-lg bg-gray-200 p-4 text-xl font-semibold text-black no-underline hover:bg-gray-300">
                     Rift Valley
                   </a>
                 </Link>
-                <Link href="/western" legacyBehavior>
+                <Link href="/wehttps://code.earthengine.google.com/57a10f84e5d4b10db8569dc5514071ff?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects&hideCode=truestern" legacyBehavior>
                   <a className="flex h-48 flex-col items-center justify-center rounded-lg bg-gray-200 p-4 text-xl font-semibold text-black no-underline hover:bg-gray-300">
                     Western
                   </a>
