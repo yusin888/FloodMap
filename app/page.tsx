@@ -74,9 +74,9 @@ export default function Home() {
                   </p>
                 </div>
                 <button className="flex min-w-[84px] max-w-[480px] items-center justify-center rounded-xl h-10 px-4 bg-blue-500 text-white text-sm font-bold md:h-12 md:px-5">
-                  <Link href='/timelapse'></Link>
+                  <Link href='/timelapse'>
                   <span className="truncate">Set Alerts</span>
-
+                  </Link>
                 </button>
               </div>
             </div>
