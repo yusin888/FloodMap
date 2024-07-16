@@ -7,6 +7,8 @@ The Flood Alert and Mapping System uses Google Earth Engine to monitor water lev
 ## How we built it
 We built the system using Google Earth Engine for data collection and analysis, integrating various datasets such as satellite imagery, weather forecasts, and hydrological data. The front-end interface was developed using Next.js, ensuring user-friendly access to the alert system and flood maps. We also utilized Tailwind CSS for styling, providing a responsive and modern design. Additionally, we used machine learning algorithms to predict flood events based on historical data and real-time inputs. Figma was used for designing the user interface.
 
+Google Earth Engine: https://code.earthengine.google.com/3b20c4401389a82feb6a39aa65dbc859?hideCode=true
+
 ## Challenges we ran into
 One of the significant challenges we faced was handling the vast amounts of data from multiple sources and ensuring accurate real-time analysis.
 Integrating different datasets and making them work seamlessly together required extensive testing and optimization.
