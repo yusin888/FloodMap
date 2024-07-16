@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Inspiration
+Our inspiration for this project stemmed from the increasing frequency and severity of flood events worldwide. With climate change exacerbating these natural disasters, we aimed to create a solution that could provide real-time alerts and mapping to help communities prepare and respond effectively. By leveraging the power of Google Earth Engine, we sought to harness the vast amounts of satellite data available to make a meaningful impact in flood-prone areas.
 
-## Getting Started
+What it does
+The Flood Alert and Mapping System uses Google Earth Engine to monitor water levels, rainfall patterns, and other environmental factors in real-time. It provides early warnings to communities about impending floods, offering crucial time to take preventive measures. The system also maps flood-prone areas, helping local authorities and residents understand high-risk zones and plan accordingly.
 
-First, run the development server:
+## How we built it
+We built the system using Google Earth Engine for data collection and analysis, integrating various datasets such as satellite imagery, weather forecasts, and hydrological data. The front-end interface was developed using Next.js, ensuring user-friendly access to the alert system and flood maps. We also utilized Tailwind CSS for styling, providing a responsive and modern design. Additionally, we used machine learning algorithms to predict flood events based on historical data and real-time inputs. Figma was used for designing the user interface.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Challenges we ran into
+One of the significant challenges we faced was handling the vast amounts of data from multiple sources and ensuring accurate real-time analysis.
+Integrating different datasets and making them work seamlessly together required extensive testing and optimization.
+Additionally, developing a reliable prediction model to forecast floods posed a complex problem, as it needed to account for various environmental and man-made factors
+Accomplishments that we're proud of
+We are proud of creating a system that can potentially save lives and reduce property damage in flood-prone areas. Our integration of real-time data and predictive analytics has resulted in a robust and reliable alert system. The user-friendly interface ensures that communities and local authorities can easily access and utilize the information. Additionally, our project highlights the effective use of technology for social good, showcasing the potential of satellite data and machine learning in disaster management.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## What we learned
+Throughout this project, we learned the importance of data accuracy and real-time analysis in disaster management. We gained valuable experience in integrating various data sources and optimizing their performance. Additionally, we deepened our understanding of machine learning algorithms and their application in environmental monitoring. This project also taught us the significance of user-centric design in developing tools for community use.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+What's next for Flood alert and Mapping system using Google Earth Engine
+Next, we plan to enhance our prediction models by incorporating more diverse datasets and improving algorithm accuracy. We aim to expand our system to cover more regions and potentially integrate with local government emergency response plans. Additionally, we will work on making our platform more accessible through mobile applications and multilingual support, ensuring that it reaches a broader audience and serves communities worldwide.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Built With
+figma
+googleearthengine
+next.js
+tailwind
